@@ -3,6 +3,14 @@
 
 ---
 
+## Project Info
+### Class: INFSCI 1530/2160 Data Mining (2231) 
+### Semester: Spring 2026
+### Instructor: Lingfei Wu
+### Student: Ethan He (Eth69)
+
+---
+
 ## Overview
 
 This project maps five years of NFL play-by-play EPA data against salary cap commitments to evaluate wide receiver value. KMeans clustering (k=4) classifies every notable WR season from 2020–2025 into one of four archetypes: **Efficient Steal**, **Elite Earner**, **Cap Casualty**, or **Developmental**. The Pittsburgh Steelers are used as a case study.
