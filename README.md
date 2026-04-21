@@ -1,10 +1,13 @@
 # NFL Wide Receiver Efficiency Frontier
 ### Cap Spending vs. On-Field Production — Pittsburgh Steelers Deep Dive (2020–2025)
-
+![Efficiency Frontier](fig_scatter.png)
 ## Project Info
-**Class** INFSCI 1530/2160 Data Mining (2231) 
-**Semester** Spring 2026
-**Instructor** Lingfei Wu
+**Class** INFSCI 1530/2160 Data Mining (2231)  
+
+**Semester** Spring 2026  
+
+**Instructor** Lingfei Wu  
+
 **Student** Ethan He (Eth69)
 
 ## Overview
@@ -43,8 +46,3 @@ To regenerate figures only:
 ```bash
 python gen_figs.py
 ```
-
-## Data Sources
-
-- **EPA:** [nfl_data_py](https://github.com/nflverse/nfl_data_py) — play-by-play data (2020–2025)
-- **Cap hits:** [Spotrac](https://www.spotrac.com) / [Over The Cap](https://overthecap.com)
